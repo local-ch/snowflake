@@ -104,7 +104,7 @@ export const tracks: Tracks = {
       "examples": [
         "Added existing button to a different iOS surface",
         "Add follow button for publications on Android",
-        "Fetched and displayed a new stream, using existing stream item styles",
+        "Fetched and displayed new products, using existing styles",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
@@ -114,19 +114,19 @@ export const tracks: Tracks = {
         "Migrates code from old patterns to new patterns",
       ],
       "examples": [
-        "Upgraded SDWebImage to a new major version",
-        "Added support for rendering a new type of stream item",
+        "Upgrade a dependecy to a new major version??",
+        "Added support for rendering a new type of item",
         "Prototyped a simple new feature quickly",
       ],
     }, {
       "summary": "Designs major new features and demonstrates a nuanced understanding of mobile platform constraints",
       "signals": [
         "Implements complex features with a large product surface area",
-        "Works effectively with  Android reactive programming framework",
+        "Works effectively with Android programming framework",
         "Adds support for new iOS features after a major iOS version upgrade",
       ],
       "examples": [
-        "Designed iOS caching strategy for offline reading",
+        "Designed iOS caching strategy for offline data",
         "Built series reader on Android",
         "Informed the team about recent best practice changes and deprecations",
       ],
@@ -139,8 +139,8 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Upgraded CocoaPods to a new major version",
-        "Designed architecture for fetching and rendering stream items",
-        "Migrated Android persistance layer to reactive programming",
+        "Designed architecture for fetching and rendering bartender items",
+        "Migrated Android persistance layer to reactive programming?? not using reactive programming here yet",
       ],
     }, {
       "summary": "Is an industry-leading expert in mobile engineering or sets strategic mobile direction for an eng team",
@@ -169,9 +169,9 @@ export const tracks: Tracks = {
         "Uses CSS appropriately, following style guide",
       ],
       "examples": [
-        "Implemented sticky footer on the post page",
-        "Hooked up the action to dismiss a post from a stream",
-        "Built PaymentHistory screen using ResponseScreen",
+        "Implemented sticky footer on the landing page",
+        "Hooked up the action to search from a landing page",
+        "Built PaymentHistory screen using ResponseScreen??",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
@@ -181,7 +181,7 @@ export const tracks: Tracks = {
         "Prototypes simple new features quickly",
       ],
       "examples": [
-        "Built credit card input component",
+        "Built authenication component",
         "Created shared buttons template",
         "Built modal system",
       ],
@@ -193,9 +193,9 @@ export const tracks: Tracks = {
         "Acts a caretaker for all of web client code",
       ],
       "examples": [
-        "Designed font loading strategy for Medium",
-        "Researched utility of service workers for Medium",
-        "Designed and implemented ResponseScreen",
+        "Designed font loading strategy",
+        "Researched utility of service workers",
+        "Designed and implemented Free table search",
       ],
     }, {
       "summary": "Builds complex, reusable architectures that pioneer best practices and enable engineers to work more effectively",
@@ -205,9 +205,9 @@ export const tracks: Tracks = {
         "Makes architectural decisions that eliminate entire classes of bugs",
       ],
       "examples": [
-        "Designed Medium's post morpher and delta system",
-        "Implemented Medium's scrolling text over image blur",
-        "Designed and pioneered proto-based model storage",
+        "Designed Medium's post morpher and delta system??",
+        "Implemented Medium's scrolling text over image blur??",
+        "Designed and pioneered proto-based model storage??",
       ],
     }, {
       "summary": "Is an industry-leading expert in web client or sets strategic web client direction for an eng team",
@@ -218,8 +218,8 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Invented CSS in JS",
-        "Defined and drove migration strategy to Lite",
-        "Implemented unidirectional data flow to completion",
+        "Defined and drove migration strategy",
+        "Implemented unidirectional data flow",
       ],
     }],
   },
@@ -244,13 +244,13 @@ export const tracks: Tracks = {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
       "signals": [
         "Made minor version upgrades to technologies",
-        "Builds machine learning jobs within the ML framework",
+        "Builds new components within the Local-UI framework",
         "Triages service issues correctly and independently",
       ],
       "examples": [
-        "Upgraded NodeJS from 8.0 to 8.1.1",
-        "Built custom packages for RPMs",
-        "Improved ETL efficiency by improving Dynamo to S3 loading",
+        "Upgraded Rails from 8.0 to 8.1.1",
+        "Built custom gem packages",
+        "Improved ETL efficiency by improving Dynamo to S3 loading??",
       ],
     }, {
       "summary": "Designs standalone systems of moderate complexity, or major new features in existing systems",
@@ -294,12 +294,12 @@ export const tracks: Tracks = {
   "SERVERS": {
     "displayName": "Servers",
     "category": "A",
-    "description": "Develops expertise in server side engineering, using technologies such as Go, NodeJS, or Scala",
+    "description": "Develops expertise in server side engineering, using technologies such as Rails, Java or Go",
     "milestones": [{
       "summary": "Works effectively within established server side frameworks, following current best practices",
       "signals": [
-        "Adds NodeJS endpoints using layers architecture",
-        "Adds golang endpoints using Gotham architecture",
+        "Adds NodeJS endpoints using layers architecture??",
+        "Adds golang endpoints using Gotham architecture??",
         "Makes minor server changes to support client needs",
       ],
       "examples": [
