@@ -370,7 +370,7 @@ export const tracks: Tracks = {
         "Writes effective technical specs outlining approach",
       ],
       "examples": [
-        "??? Wrote the technical spec for featured post images",
+        "Wrote the technical spec for edit customer address feature",
         "Implemented rate an entry in the frontend",
         "Delivered backend service to save user search history",
       ],
@@ -406,8 +406,8 @@ export const tracks: Tracks = {
         "Leverages recognition of repeated project patterns",
       ],
       "examples": [
-        "??? Oversaw technical delivery of Hightower",
-        "??? Managed infrastructure migration to VPC",
+        "Oversaw technical delivery of the Customer API",
+        "Managed infrastructure migration to AWS",
         "Involved marketing, legal, and appropriate functions at project start",
       ],
     }, {
@@ -437,9 +437,9 @@ export const tracks: Tracks = {
         "Asks for help at the appropriate juncture",
       ],
       "examples": [
-        "??? Updated The Watch before running a backfill",
+        "Identified an issue during a stand-up meeting and helped a team member to resolve it",
         "Updated task status changes in Jira promptly",
-        "??? Gave thoughtful check-in and check-out comments",
+        "Asked a backend engineer about an API problem and suggested improvements",
       ],
     }, {
       "summary": "Communicates with the wider team appropriately, focusing on timeliness and good quality conversations",
@@ -474,7 +474,7 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Lead off-site workshop on interviewing",
-        "??? Wrote Medium's growth framework and rationale",
+        "Managed a smooth transition to the new IT target architecture within engineering",
         "Aligned the entire organization around ratings & reviews",
       ],
     }, {
@@ -485,7 +485,7 @@ export const tracks: Tracks = {
         "Develops and delivers plans to execs, the board, and outside investors",
       ],
       "examples": [
-        "??? Organized half year check-in company offsite",
+        "Organized big room planning with engineering and stakeholders",
         "Created the communication plan for a large organizational change",
         "Presented to the board about key company metrics and projects",
       ],
@@ -505,7 +505,7 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Caught a bug in the Android app before it got published",
-        "??? Landed non-trivial PR with no caretaker comments",
+        "Landed non-trivial PR and ensured all analytics and business metrics are intact",
         "Wrote hermetic tests for the happy and sad cases",
       ],
     }, {
@@ -528,8 +528,8 @@ export const tracks: Tracks = {
         "Adds tooling to improve code quality",
       ],
       "examples": [
-        "??? Improved PRB to run the same volume of tests faster",
-        "??? Simplified hermetic test data modification",
+        "Improved the CI process to run the same volume of tests faster",
+        "Automated uploading native app builds to the App/Play Store",
         "??? Created fixture system for visual quality",
       ],
     }, {
@@ -566,13 +566,13 @@ export const tracks: Tracks = {
     "milestones": [{
       "summary": "Identifies opportunities for organizational change or product improvements",
       "signals": [
-        "??? Writes Hatch posts about improvement opportunities",
-        "??? Raises meaningful tensions in tactical meetings",
+        "Posts to engineering and devops channels about improvement opportunities",
+        "Raises meaningful tensions in tactical meetings",
         "??? Asks leadership team probing questions at FAM",
       ],
       "examples": [
-        "??? Wrote about problems with TTR on Hatch",
-        "??? Wrote about content policy problems on Hatch",
+        "Informed and investigated a network latency issue with devops",
+        "Raised an analytics issue with the data insights team",
         "??? Reported a site issue in Github",
       ],
     }, {
@@ -609,7 +609,7 @@ export const tracks: Tracks = {
       "examples": [
         "Created the interviewing process and guidelines",
         "Implemented and secured support for native login",
-        "??? Migrated medium2 to mono repo and bazel",
+        "Migrated build system from Maven to Gradle and optimized backend repository structure",
       ],
     }, {
       "summary": "Effects change that has a substantial positive impact on the whole company",
