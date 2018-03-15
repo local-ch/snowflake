@@ -109,12 +109,12 @@ export const tracks: Tracks = {
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
       "signals": [
-        "Defines new useful and appropriate proto-generated objects",
-        "Creates simple new activities on Android",
+        "Defines new useful and appropriate bartender objects",
+        "Creates simple new activities on Android, new screens on iOS",
         "Migrates code from old patterns to new patterns",
       ],
       "examples": [
-        "Upgrade a dependecy to a new major version??",
+        "Upgrade a dependecy to a new major version",
         "Added support for rendering a new type of item",
         "Prototyped a simple new feature quickly",
       ],
@@ -140,14 +140,14 @@ export const tracks: Tracks = {
       "examples": [
         "Upgraded CocoaPods to a new major version",
         "Designed architecture for fetching and rendering bartender items",
-        "Migrated Android persistance layer to reactive programming?? not using reactive programming here yet",
+        "Migrated apps to use a new REST layer",
       ],
     }, {
       "summary": "Is an industry-leading expert in mobile engineering or sets strategic mobile direction for an eng team",
       "signals": [
         "Defines long-term goals and ensures active projects are in service of them",
         "Designs and builds innovative, industry-leading UI interactions",
-        "Invents new techniques to responsibly stretch limits of the Android platform",
+        "Invents new techniques to responsibly stretch limits of the mobile platform",
       ],
       "examples": [
         "Defined and drove complete migration plan to Swift or Kotlin",
@@ -171,7 +171,7 @@ export const tracks: Tracks = {
       "examples": [
         "Implemented sticky footer on the landing page",
         "Hooked up the action to search from a landing page",
-        "Built PaymentHistory screen using ResponseScreen??",
+        "Built PaymentHistory screen using ResponseScreen???",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
@@ -206,7 +206,7 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Designed Medium's post morpher and delta system??",
-        "Implemented Medium's scrolling text over image blur??",
+        "Implemented Medium's scrolling text over image blur???",
         "Designed and pioneered proto-based model storage??",
       ],
     }, {
@@ -248,9 +248,8 @@ export const tracks: Tracks = {
         "Triages service issues correctly and independently",
       ],
       "examples": [
-        "Upgraded Rails from 8.0 to 8.1.1",
+        "Upgraded Rails from x.0 to x.1",
         "Built custom gem packages",
-        "Improved ETL efficiency by improving Dynamo to S3 loading??",
       ],
     }, {
       "summary": "Designs standalone systems of moderate complexity, or major new features in existing systems",
@@ -272,7 +271,6 @@ export const tracks: Tracks = {
         "Introduces new databases and technologies to meet underserved needs",
       ],
       "examples": [
-        "Designed and built BBFD",
         "Designed AWS configuration management",
         "Introduced Kinesis and pioneered streaming events pipeline",
       ],
@@ -298,8 +296,8 @@ export const tracks: Tracks = {
     "milestones": [{
       "summary": "Works effectively within established server side frameworks, following current best practices",
       "signals": [
-        "Adds NodeJS endpoints using layers architecture??",
-        "Adds golang endpoints using Gotham architecture??",
+        "Adds NodeJS endpoints using layers architecture???",
+        "Adds golang endpoints using Gotham architecture???",
         "Makes minor server changes to support client needs",
       ],
       "examples": [
